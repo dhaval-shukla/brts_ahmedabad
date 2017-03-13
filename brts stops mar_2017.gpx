@@ -1,0 +1,1009 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="22.972974000000001" minlon="72.450234600000002" maxlat="23.129249399999999" maxlon="72.671411599999999"/></metadata>                  
+<wpt lat="23.06767" lon="72.575705">
+  <name>Ranip</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 2</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.067542" lon="72.5686135">
+  <name>Bhavsar Hostel / Vyas Vadi</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Interchange Stop</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.067556" lon="72.563748">
+  <name>Akhabar Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 4</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.06463" lon="72.55605">
+  <name>Pragati Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 5</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.062221" lon="72.552981">
+  <name>Shastri Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 6</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.057636" lon="72.549334">
+  <name>Jay Mangal</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 7</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.052729" lon="72.546828">
+  <name>Sola Cross Road / AEC </name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Interchange Stop</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0492" lon="72.545026">
+  <name>Valinath Chawk</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 9</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.045597" lon="72.542451">
+  <name>Memnagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 10</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.039722" lon="72.538583">
+  <name>University / GMDC</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 11</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.034638" lon="72.536008">
+  <name>IIM</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 12</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.02978" lon="72.53242">
+  <name>Himmatlal Park</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 13</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.023041" lon="72.536319">
+  <name>Bima Nagar / Jhansi Ki Rani</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 15</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.022527" lon="72.541673">
+  <name>Nehru Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Interchange Stop</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.018341" lon="72.544023">
+  <name>Manek Baug</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 17</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.995543" lon="72.570201">
+  <name>Khodiyar Nagar / Pirana</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 18</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.008229" lon="72.54928">
+  <name>Dharnidhar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 19</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.00373" lon="72.553872">
+  <name>Anjali Cross Road</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Interchange Stop</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.999755" lon="72.558104">
+  <name>Chandra Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 21</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.996437" lon="72.577245">
+  <name>Dani Limda Cross Road</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 22</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.999815" lon="72.582883">
+  <name>Vaikunth Dham Mandir</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 23</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.001488" lon="72.587121">
+  <name>Swaminarayan College</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 24</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.002466" lon="72.59285">
+  <name>Kankaria Telephone Exchange</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 25</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.003133" lon="72.59896">
+  <name>Kankaria Lake</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 26</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.999874" lon="72.60065">
+  <name>Rambaug</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 27</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.997207" lon="72.606454">
+  <name>Meninagar Cross Road</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 28</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.994896" lon="72.611743">
+  <name>Swaminarayan Mandir</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 29</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.995192" lon="72.605043">
+  <name>Jawahar Chowk</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 30</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.995494" lon="72.599099">
+  <name>Bhairavnath</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 31</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.999113" lon="72.593247">
+  <name>Meera Cinema Char Rasta</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 32</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.991622" lon="72.58159">
+  <name>Chippa Society</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 34</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.987341" lon="72.582453">
+  <name>Chandola Lake</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 35</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.982214" lon="72.585672">
+  <name>BRTS Workshop</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 36</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.976802" lon="72.586793">
+  <name>Kashiram Textiles</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 37</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.972974" lon="72.589518">
+  <name>Narol</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 38</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.974021" lon="72.595253">
+  <name>Mukesh Industries</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 39</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.976243" lon="72.602318">
+  <name>Isanpur</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 40</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.97852" lon="72.610145">
+  <name>Ghodasar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 41</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.98257" lon="72.621909">
+  <name>Jasoda Nagar Char Rasta</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 42</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.987632" lon="72.627992">
+  <name>Vadodara Expressway Junction</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 43</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.9912715" lon="72.6317092">
+  <name>CTM Junction</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 44</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.9960889" lon="72.6342252">
+  <name>Purvadeep Society</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 45</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.000466" lon="72.63561">
+  <name>Jogeshwari</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 46</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.004412" lon="72.636892">
+  <name>Rabari Colony</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 47</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.01362" lon="72.638437">
+  <name>Rameshwar Park</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 48</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0205822" lon="72.6384284">
+  <name>Soni Ni Chali</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Interchange Stop</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.027548" lon="72.63878">
+  <name>Virat Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 50</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.033739" lon="72.639391">
+  <name>Bapunagar Approach</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 51</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0411438" lon="72.6405443">
+  <name>Thakkarbapa Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 52</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0369726" lon="72.6400244">
+  <name>Lila Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 53</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.045636" lon="72.641065">
+  <name>Hirawadi</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 54</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.051382" lon="72.641902">
+  <name>Vijay Park</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 55</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.054936" lon="72.642524">
+  <name>Krishna Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 56</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.059773" lon="72.642986">
+  <name>Dhanushdhari Mandir / New GSRTC</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 57</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.064235" lon="72.643028">
+  <name>Naroda Patiya / ST Workshop</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 58</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.061757" lon="72.571778">
+  <name>Ramapir Tekra</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 59</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.066357" lon="72.5717439">
+  <name>NR Patel Park</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 60</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.057113" lon="72.571727">
+  <name>Juna Wadaj</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 61</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0484399" lon="72.5824104">
+  <name>Gurudwara</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 63</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.041662" lon="72.58527">
+  <name>Sarkari Litho Press / Delhi Darwaja</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 64</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.031973" lon="72.4594608">
+  <name>Anuradha Society</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 66</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0340526" lon="72.4641895">
+  <name>Bopal Gam</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 67</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0323914" lon="72.4690819">
+  <name>Sterling City</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 68</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0310214" lon="72.4723944">
+  <name>Sarkari Tubewell</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 69</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0291084" lon="72.4761388">
+  <name>Aabad Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 70</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0258586" lon="72.477795">
+  <name>Bopal Approch</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 71</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0264844" lon="72.4822623">
+  <name>Ambali Gam</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 72</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0278717" lon="72.4858296">
+  <name>Swagat Bunglows</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 73</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0284048" lon="72.4909553">
+  <name>Jayatilal Park</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 74</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0279235" lon="72.495448">
+  <name>Ashok Vatika</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 75</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0277606" lon="72.501027">
+  <name>Antariksh Colony</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 76</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0274792" lon="72.5051522">
+  <name>ISKCON Mandir</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 77</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0271188" lon="72.5086069">
+  <name>ISKCON Cross Road</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 78</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0274841" lon="72.5128716">
+  <name>Ramdev Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 79</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0276964" lon="72.517705">
+  <name>Bhavnirjar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 80</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0262153" lon="72.5240242">
+  <name>Star Bazaar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 81</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0252131" lon="72.5273502">
+  <name>Jodhpur Char Rasta</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 82</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0647481" lon="72.5297508">
+  <name>Sola Bridge</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 83</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0629244" lon="72.5326985">
+  <name>Satadhar Char Rasta</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 84</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0604245" lon="72.5356302">
+  <name>Bhuyangdev</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 85</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0576678" lon="72.5391304">
+  <name>Parshwanath Jain Mandir</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 86</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0554985" lon="72.5433013">
+  <name>Parasnagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 87</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0235518" lon="72.5429043">
+  <name>L Colony</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 88</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.026393" lon="72.5441462">
+  <name>Panjarapol</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 89</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0293651" lon="72.5470886">
+  <name>Gulbhai Tekra Approach</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Interchange Stop</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0239368" lon="72.5590298">
+  <name>Law College</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 91</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0236999" lon="72.5702548">
+  <name>Townhall</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Interchange Stop</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0388238" lon="72.5545049">
+  <name>Commerce Six Road</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 93</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0343611" lon="72.5489366">
+  <name>LD Engineering College</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 94</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0722204" lon="72.6497501">
+  <name>Bethak</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 96</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0747966" lon="72.6560855">
+  <name>Naroda Gam</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 97</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0200809" lon="72.6331177">
+  <name>Ajit Mill</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 99</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0080409" lon="72.6381201">
+  <name>Ram Rajya Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 100</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0174024" lon="72.638458">
+  <name>Odhav</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 101</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0213177" lon="72.6435488">
+  <name>Grid Station</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 102</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.022394" lon="72.6507667">
+  <name>Odhav Fire Station</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 103</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0229445" lon="72.6548114">
+  <name>Vallabhnagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 104</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0235394" lon="72.6587516">
+  <name>Chhotalal ni Chali</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 105</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0240381" lon="72.6623136">
+  <name>Morlidhar Society</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 106</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.024517" lon="72.6653257">
+  <name>Odhav Talav</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 107</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0249144" lon="72.6714116">
+  <name>SP Ring Road, Odhav</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 108</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0695923" lon="72.522836">
+  <name>Science City Approach</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 109</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.1229213" lon="72.5827593">
+  <name>Sarthi Bunglows</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 111</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.1163547" lon="72.5827003">
+  <name>Chandkheda Gam</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 112</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.1120722" lon="72.5839394">
+  <name>Shiv Shakti Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 113</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.1083619" lon="72.5851357">
+  <name>Janta Nagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 114</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.1034377" lon="72.5866592">
+  <name>Avani Bhavan</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 115</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0973487" lon="72.5886065">
+  <name>Visat Junction</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 116</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0918517" lon="72.5901729">
+  <name>Motera Cross Road</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 117</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0861472" lon="72.591868">
+  <name>Sabarmati Police Station</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 118</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0814245" lon="72.5933862">
+  <name>Municipal Snanagar</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 119</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0785375" lon="72.5950491">
+  <name>Rathi Apartment</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 120</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0740563" lon="72.5925922">
+  <name>Sabarmati Powerhouse</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 121</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0223545" lon="72.598654">
+  <name>Sarangpur Darwaja</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 123</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0190071" lon="72.5989088">
+  <name>Karnamukteshwar Mahadev</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 124</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0173827" lon="72.5959906">
+  <name>Raipur Darwaja</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 125</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.016847" lon="72.5922489">
+  <name>Astodia Darwaja</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 126</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0186392" lon="72.5885475">
+  <name>Astodia Chakla</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 127</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.019723" lon="72.5861335">
+  <name>AMC Corporation </name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 128</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0216016" lon="72.5827163">
+  <name>Raikhad Char Rasta</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 129</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0219817" lon="72.5803506">
+  <name>Lokmanya Tilak Baug</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 130</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.039125" lon="72.608825">
+  <name>Point 134</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 131</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0417956" lon="72.6124996">
+  <name>Arvind Mill</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 132</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0443576" lon="72.6159757">
+  <name>Jeening Press</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 133</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0465987" lon="72.6191461">
+  <name>Ashok Mill</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 134</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0508216" lon="72.6256478">
+  <name>Naroda Fruit Market</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 135</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0534204" lon="72.6296443">
+  <name>Memco Cross Road</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 136</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0556688" lon="72.6331285">
+  <name>Corporation North Zone Office</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 137</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.058001" lon="72.6367012">
+  <name>GD High School</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 138</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0613647" lon="72.6398554">
+  <name>Saijpur Towers</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 139</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0034932" lon="72.5898832">
+  <name>Mangal Park</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 140</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0066485" lon="72.5911143">
+  <name>Bhulbhai Park</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 141</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0130402" lon="72.5913879">
+  <name>Geeta Mandir ST Stand</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 142</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0019213" lon="72.5475332">
+  <name>Vasna</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 147</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0306163" lon="72.4502346">
+  <name>Ghuma Gam</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 156</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.1292494" lon="72.5845952">
+  <name>Zundal Circle</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 161</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="22.9984564" lon="72.6112654">
+  <name>Maninagar Railway Station</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 165</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0685963" lon="72.5819882">
+  <name>RTO Circle</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 166</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0270732" lon="72.6008036">
+  <name>Kalupur Railway Station</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 183</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0448548" lon="72.5837059">
+  <name>Hanumanpura</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 184</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.0243842" lon="72.5312692">
+  <name>Shivranjani</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Waypoint no: 186</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.086408710711211" lon="72.528287593694614">
+  <name>Sola Bhagwat</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+    <ogr:comment>Source</ogr:comment>
+  </extensions>
+</wpt>
+<wpt lat="23.082738249169235" lon="72.527273200064229">
+  <name>Sola Civil</name>
+  <extensions>
+    <ogr:elevation>0.0</ogr:elevation>
+  </extensions>
+</wpt>
+<wpt lat="23.105257128809601" lon="72.597063481834439">
+  <name>Vishwakarma/IIT</name>
+  <extensions>
+  </extensions>
+</wpt>
+</gpx>
